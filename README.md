@@ -1,4 +1,4 @@
-# Augmented Reality using Python and OpenCV
+# Augmented Reality using OpenCV library
 
 This is an OpenCV project to
 1. Track a surface in a video
