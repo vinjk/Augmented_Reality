@@ -1,3 +1,5 @@
+# Augmented Reality using Python and OpenCV
+
 This is an OpenCV project to
 1. Track a surface in a video
 2. Get the camera position
