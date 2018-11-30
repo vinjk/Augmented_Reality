@@ -5,7 +5,7 @@ This is an OpenCV project to
 2. Get the camera position
 3. Render a 3D object on to the video
 
-The inspiration for this work was from a paper from Disney Research Megnenat et al (2015), 'Live Texturing of Augmented Reality Characters from Colored Drawings'. You can find more about the work here: https://www.disneyresearch.com/publication/live-texturing-of-augmented-reality-characters/
+The inspiration for this work was from a paper from Disney Research Magnenat et al (2015), 'Live Texturing of Augmented Reality Characters from Colored Drawings'. You can find more about the work here: https://www.disneyresearch.com/publication/live-texturing-of-augmented-reality-characters/
 
 In this work I have used OpenCV library for implementing the project. Some of the key techniques I used are:
 1. Camera calibration (chessboard pattern)
